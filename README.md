@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TeamFlow — Multi-Tenant Project Management & Team Collaboration SaaS
 
 [![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)](https://vercel.com)
@@ -418,4 +417,4 @@ npm run preview
 This is a frontend-only prototype using synthetic data in React state. It does not connect to a database, API, real authentication, server-enforced permissions, email delivery, real-time notifications, or persistent task storage. Role switching and member role management are demonstrations only. Do not treat UI role restrictions as production security.
 
 The theme preference is saved in browser local storage. Task data otherwise resets when the page is refreshed.
->>>>>>> 421f2fe3a6a1623ba2687f35cf0cebac703cc41d
+
